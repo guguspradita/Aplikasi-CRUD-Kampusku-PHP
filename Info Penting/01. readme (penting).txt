@@ -1,0 +1,5 @@
+Jalankan file generate.php untuk proses pembuatan database
+
+Data untuk login ke aplikasi:
+USER     : gugus
+PASSWORD : rahasia
